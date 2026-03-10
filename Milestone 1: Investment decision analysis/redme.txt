@@ -1,0 +1,2 @@
+Kazbekov Yerzhan
+Quantitative and Statistical Analysis: Leveraged advanced Excel functions to conduct a comprehensive risk-return analysis of a two-asset portfolio, including calculating weekly returns, descriptive statistics, and Sharpe Ratios. Applied statistical hypothesis testing (F-Test) and regression analysis against the S&P 500 to evaluate risk profiles and market correlation.
